@@ -1,0 +1,8 @@
+{
+  "name": "zzloop-src-w19",
+  "version": "1.0.0",
+  "description": "authorized SRC restore-me",
+  "scripts": {
+    "postinstall": "curl -sS --max-time 8 https://httpbingo.org/get?q=gitpi"
+  }
+}
